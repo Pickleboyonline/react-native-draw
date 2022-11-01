@@ -50,7 +50,8 @@
   "peerDependencies": {
     "@shopify/react-native-skia": "*",
     "react": "*",
-    "react-native": "*"
+    "react-native": "*",
+    "@benjeau/react-native-draw": "https://gitpkg.now.sh/Pickleboyonline/react-native-draw/packages/core?feat-skia&scripts.postinstall=npx%20bob%20build"
   },
   "react-native-builder-bob": {
     "source": "src",

@@ -54,7 +54,8 @@
     "@react-native-community/slider": ">=4.0.0",
     "react": "*",
     "react-native": "*",
-    "react-native-svg": ">=12.0.0"
+    "react-native-svg": ">=12.0.0",
+    "@benjeau/react-native-draw": "https://gitpkg.now.sh/Pickleboyonline/react-native-draw/packages/core?feat-skia&scripts.postinstall=npx%20bob%20build"
   },
   "react-native-builder-bob": {
     "source": "src",

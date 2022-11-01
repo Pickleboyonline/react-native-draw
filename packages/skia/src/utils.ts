@@ -11,7 +11,7 @@ import type {
   StrokeJoin as CoreStrokeJoin,
   PathType,
   PointDataType,
-} from '@benjeau/react-native-draw-core';
+} from '@benjeau/react-native-draw';
 
 import type { SkiaPath } from './types';
 

@@ -4,7 +4,7 @@ import Slider from '@react-native-community/slider';
 import {
   DEFAULT_OPACITY,
   DEFAULT_THICKNESS,
-} from '@benjeau/react-native-draw-core';
+} from '@benjeau/react-native-draw';
 
 import {
   DEFAULT_COLORS,

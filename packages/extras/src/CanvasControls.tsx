@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleProp, StyleSheet, View, ViewStyle } from 'react-native';
-import { DEFAULT_TOOL, DrawingTool } from '@benjeau/react-native-draw-core';
+import { DEFAULT_TOOL, DrawingTool } from '@benjeau/react-native-draw';
 
 import {
   DEFAULT_BRUSH_PREVIEW,

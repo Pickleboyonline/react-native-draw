@@ -1,5 +1,5 @@
 import type { IPaint, IPath, PaintStyle } from '@shopify/react-native-skia';
-import type { PathDataType } from '@benjeau/react-native-draw-core';
+import type { PathDataType } from '@benjeau/react-native-draw';
 
 /**
  * Custom Skia path to contain more information about the path

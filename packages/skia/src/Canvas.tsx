@@ -30,7 +30,7 @@ import {
   PathType,
   PointDataType,
   getSvgHelper,
-} from '@benjeau/react-native-draw-core';
+} from '@benjeau/react-native-draw';
 
 import {
   convertCorePathsToSkiaPaths,

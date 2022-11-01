@@ -1,4 +1,4 @@
-export * from '@benjeau/react-native-draw-core';
+export * from '@benjeau/react-native-draw';
 
 export { default as Canvas, CanvasProps } from './Canvas';
 
